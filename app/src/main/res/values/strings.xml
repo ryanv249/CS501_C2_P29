@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">C2_P29</string>
+
+    <string name="chicken">10g Chicken:</string>
+    <string name="pasta">10g Pasta:</string>
+    <string name="cheese">10g American Cheese:</string>
+    <string name="steak">10g NY strip steak:</string>
+    <string name="milk">10ml Whole Milk:</string>
+
+    <string name="chickenCal">20 Cal</string>
+    <string name="pastaCal">16 Cal</string>
+    <string name="cheeseCal">35 Cal</string>
+    <string name="steakCal">15 Cal</string>
+    <string name="milkCal">6 Cal</string>
+
+
+    <string name="calorieCount">Total Calories:</string>
+</resources>
